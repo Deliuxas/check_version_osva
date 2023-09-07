@@ -1,1 +1,1 @@
-{"version":"1.0.1", "notes":"Fixed issue with okok messages, added framework tweak."}
+{"version":"1.0.2", "notes":"Fixed a bug in the callback, added the 'ps-ui' and chat notification options, added in the 'config' command tag, and addressed some other minor bugs."}

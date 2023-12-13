@@ -1,1 +1,1 @@
-{"version":"1.0.2", "notes":"Fixed a bug in the callback, added the 'ps-ui' and chat notification options, added in the 'config' command tag, and addressed some other minor bugs."}
+{"version":"1.0.3", "notes":"Fixed a bug with triggers and callbacks, improving performance and also addressing small bugs.", "release_date":{"day":12,"month":12,"year":2023}}

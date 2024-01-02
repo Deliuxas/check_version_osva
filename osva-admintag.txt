@@ -1,1 +1,1 @@
-{"version":"1.0.3", "notes":"Fixed a bug with triggers and callbacks, improving performance and also addressing small bugs.", "release_date":{"day":12,"month":12,"year":2023}}
+{"version":"1.0.4", "notes":"Fixed a bug related to Config.TextSize, and moved the Discord token and Discord guild ID to the server-side configuration to enhance the security of your bot token.", "release_date":{"day":01,"month":01,"year":2024}}

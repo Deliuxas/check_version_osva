@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Fixed a bug related to Config.TextSize, and moved the Discord token and Discord guild ID to the server-side configuration to enhance the security of your bot token.", "release_date":{"day":01,"month":01,"year":2024}}
+{"version":"1.0.4", "notes":"Fixed a bug related to Config.TextSize, and moved the Discord token and Discord guild ID to the server-side configuration to enhance the security of your bot token", "release_date":{"day":2,"month":1,"year":2024}}

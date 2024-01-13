@@ -1,1 +1,1 @@
-{"version":"1.0.0", "notes":"Release", "release_date":{"day":12,"month":12,"year":2023}}
+{"version":"1.0.1", "notes":"The issue with player counting and the HUD displaying when the map is open has been resolved", "release_date":{"day":13,"month":1,"year":2024}}

@@ -1,1 +1,1 @@
-{"version":"1.0.4", "notes":"Fixed a bug related to Config.TextSize, and moved the Discord token and Discord guild ID to the server-side configuration to enhance the security of your bot token", "release_date":{"day":2,"month":1,"year":2024}}
+{"version":"1.0.5", "notes":"I've added a feature that allows you to enable or disable displaying your name using Config.OwnName", "release_date":{"day":27,"month":9,"year":2024}}

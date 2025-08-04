@@ -1,1 +1,1 @@
-{"version":"1.0.6", "notes":"Fixed an issue with client-side triggering, improved client-side code optimization, and added support for ox notifications.", "release_date":{"day":04,"month":8,"year":2025}}
+{"version":"1.0.6", "notes":"Fixed an issue with client-side triggering, improved client-side code optimization, and added support for ox notifications.", "release_date":{"day":03,"month":8,"year":2025}}
